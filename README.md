@@ -63,6 +63,9 @@ The dataset contained inconsistent, incomplete, and unstructured transaction rec
 
 <img width="1375" height="726" alt="Screenshot 2026-05-11 184907" src="https://github.com/user-attachments/assets/ca1401f5-e540-4f10-9c38-2fd6a0b436bb" />
 
+<img width="1366" height="737" alt="Screenshot 2026-05-11 184942" src="https://github.com/user-attachments/assets/d7962ed3-ed0d-4d79-a8d3-79bfc7017b3a" />
+
+
 📂 Project Structure
 customer-behavior-analysis/
 │
