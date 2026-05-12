@@ -79,5 +79,3 @@ customer-behavior-analysis/
  🚀 Author
 
 Kunal Tripathi
-LinkedIn: (Add your link)
-GitHub: (Add your link)
